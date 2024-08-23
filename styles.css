@@ -29,7 +29,7 @@ p {
 }
 
 img {
-  width: 80%;
+  width: 50%;
 }
 .bttn{
   text-align: center;
@@ -45,8 +45,8 @@ footer {
 button{
   text-align: center;
   height: 40px;
-  width: 80px;
-  font-size: 20px;
+  width: 180px;
+  font-size: 30px;
   border-radius: 20%;
   border: 0px;
   color: #4ECCA3;
