@@ -1,4 +1,3 @@
-
 document.querySelector("button").addEventListener("click",function(){
     var randomnumber1=Math.floor(Math.random()*6)+1;
 var randomnumber2=Math.floor(Math.random()*6)+1;
@@ -42,9 +41,9 @@ var randomnumber2=Math.floor(Math.random()*6)+1;
         document.querySelector("div h1").innerHTML="Draw";
     }
     else if(randomnumber1>randomnumber2){
-        document.querySelector("div h1").innerHTML="Player1 wins";
+        document.querySelector("div h1").innerHTML="Mehul wins";
     }
     else if(randomnumber2>randomnumber1){
-        document.querySelector("div h1").innerHTML="Player2 wins";
+        document.querySelector("div h1").innerHTML="Ankita wins";
     }
 })
